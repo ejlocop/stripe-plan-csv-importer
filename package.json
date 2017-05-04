@@ -1,0 +1,21 @@
+{
+  "name": "stripe-plan-csv-importer",
+  "version": "1.0.0",
+  "description": "Stripe plans csv importer",
+  "main": "index.js",
+  "dependencies": {
+    "stripe": "^4.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "csv",
+    "importer",
+    "stripe",
+    "plans"
+  ],
+  "author": "ejlocop@gmail.com",
+  "license": "MIT"
+}
